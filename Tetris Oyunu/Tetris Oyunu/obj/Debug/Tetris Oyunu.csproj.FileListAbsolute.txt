@@ -1,0 +1,27 @@
+C:\Users\Ramazan Harmaner\AppData\Local\Temporary Projects\Tetris Oyunu\bin\Debug\Tetris Oyunu.exe.config
+C:\Users\Ramazan Harmaner\AppData\Local\Temporary Projects\Tetris Oyunu\bin\Debug\Tetris Oyunu.exe
+C:\Users\Ramazan Harmaner\AppData\Local\Temporary Projects\Tetris Oyunu\bin\Debug\Tetris Oyunu.pdb
+C:\Users\Ramazan Harmaner\AppData\Local\Temporary Projects\Tetris Oyunu\obj\Debug\Tetris Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Ramazan Harmaner\AppData\Local\Temporary Projects\Tetris Oyunu\obj\Debug\Tetris_Oyunu.Form1.resources
+C:\Users\Ramazan Harmaner\AppData\Local\Temporary Projects\Tetris Oyunu\obj\Debug\Tetris_Oyunu.Properties.Resources.resources
+C:\Users\Ramazan Harmaner\AppData\Local\Temporary Projects\Tetris Oyunu\obj\Debug\Tetris Oyunu.csproj.GenerateResource.Cache
+C:\Users\Ramazan Harmaner\AppData\Local\Temporary Projects\Tetris Oyunu\obj\Debug\Tetris Oyunu.exe
+C:\Users\Ramazan Harmaner\AppData\Local\Temporary Projects\Tetris Oyunu\obj\Debug\Tetris Oyunu.pdb
+C:\Users\Ramazan Harmaner\Documents\Visual Studio 2015\Projects\Tetris Oyunu\Tetris Oyunu\bin\Debug\Tetris Oyunu.exe.config
+C:\Users\Ramazan Harmaner\Documents\Visual Studio 2015\Projects\Tetris Oyunu\Tetris Oyunu\obj\Debug\Tetris Oyunu.exe
+C:\Users\Ramazan Harmaner\Documents\Visual Studio 2015\Projects\Tetris Oyunu\Tetris Oyunu\obj\Debug\Tetris Oyunu.pdb
+C:\Users\Ramazan Harmaner\Documents\Visual Studio 2015\Projects\Tetris Oyunu\Tetris Oyunu\bin\Debug\Tetris Oyunu.exe
+C:\Users\Ramazan Harmaner\Documents\Visual Studio 2015\Projects\Tetris Oyunu\Tetris Oyunu\bin\Debug\Tetris Oyunu.pdb
+C:\Users\Ramazan Harmaner\Documents\Visual Studio 2015\Projects\Tetris Oyunu\Tetris Oyunu\obj\Debug\Tetris Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Ramazan Harmaner\Documents\Visual Studio 2015\Projects\Tetris Oyunu\Tetris Oyunu\obj\Debug\Tetris_Oyunu.Form1.resources
+C:\Users\Ramazan Harmaner\Documents\Visual Studio 2015\Projects\Tetris Oyunu\Tetris Oyunu\obj\Debug\Tetris_Oyunu.Properties.Resources.resources
+C:\Users\Ramazan Harmaner\Documents\Visual Studio 2015\Projects\Tetris Oyunu\Tetris Oyunu\obj\Debug\Tetris Oyunu.csproj.GenerateResource.Cache
+C:\Users\Ramazan Harmaner\Desktop\Tetris Oyunu\Tetris Oyunu\bin\Debug\Tetris Oyunu.exe.config
+C:\Users\Ramazan Harmaner\Desktop\Tetris Oyunu\Tetris Oyunu\bin\Debug\Tetris Oyunu.exe
+C:\Users\Ramazan Harmaner\Desktop\Tetris Oyunu\Tetris Oyunu\bin\Debug\Tetris Oyunu.pdb
+C:\Users\Ramazan Harmaner\Desktop\Tetris Oyunu\Tetris Oyunu\obj\Debug\Tetris Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Ramazan Harmaner\Desktop\Tetris Oyunu\Tetris Oyunu\obj\Debug\Tetris_Oyunu.Form1.resources
+C:\Users\Ramazan Harmaner\Desktop\Tetris Oyunu\Tetris Oyunu\obj\Debug\Tetris_Oyunu.Properties.Resources.resources
+C:\Users\Ramazan Harmaner\Desktop\Tetris Oyunu\Tetris Oyunu\obj\Debug\Tetris Oyunu.csproj.GenerateResource.Cache
+C:\Users\Ramazan Harmaner\Desktop\Tetris Oyunu\Tetris Oyunu\obj\Debug\Tetris Oyunu.exe
+C:\Users\Ramazan Harmaner\Desktop\Tetris Oyunu\Tetris Oyunu\obj\Debug\Tetris Oyunu.pdb
